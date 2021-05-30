@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=OneDark
+Comment=A GTK Theme based in OneDark Atom
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=OneDark
+MetacityTheme=OneDark
+IconTheme=papirus-icon-theme
+CursorTheme=Adwaita
+CursorSize=24
+ButtonLayout=close,minimize,maximize:   
